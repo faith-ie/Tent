@@ -1,0 +1,11 @@
+IDENTIFICATION DIVISION.
+PROGRAM-ID. TENT.
+PROCEDURE DIVISION.
+DISPLAY "    _____________________".
+DISPLAY "   /                   / \\        z".
+DISPLAY "  /                   /   \\      z".
+DISPLAY " /                   /     \\    z".
+DISPLAY "/                   /       \\  z".
+DISPLAY "___________________/---------\\".
+DISPLAY "                 ".
+STOP RUN.
