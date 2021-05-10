@@ -1,0 +1,7 @@
+(write-line "    _____________________")
+(write-line "   /                   / \\        z")
+(write-line "  /                   /   \\      z")
+(write-line " /                   /     \\    z")
+(write-line "/                   /       \\  z")
+(write-line "___________________/---------\\")
+(write-line "                 ")
